@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Moneytracker.iml" filepath="$PROJECT_DIR$/.idea/modules/Moneytracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Moneytracker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Moneytracker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/data/Moneytracker.app.data.iml" filepath="$PROJECT_DIR$/.idea/modules/app/data/Moneytracker.app.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/repo/Moneytracker.app.repo.iml" filepath="$PROJECT_DIR$/.idea/modules/app/repo/Moneytracker.app.repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/retrofitdatasource/Moneytracker.app.retrofitdatasource.iml" filepath="$PROJECT_DIR$/.idea/modules/app/retrofitdatasource/Moneytracker.app.retrofitdatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sqllite_ds/Moneytracker.app.sqllitedatasource.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sqllite_ds/Moneytracker.app.sqllitedatasource.iml" />
+    </modules>
+  </component>
+</project>
