@@ -14,7 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Moneytracker"
 include ':app'
-include ':app:data'
+include ':app:domain'
 include ':app:repo'
-include ':app:sqllitedatasource'
-include ':app:retrofitdatasource'
+include ':sqllitedatasource'
+include ':retrofitdatasource'
+include ':usplashretrofitdatasource'

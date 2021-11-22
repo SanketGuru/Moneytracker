@@ -5,6 +5,9 @@
       <module name="Moneytracker.app" target="11" />
       <module name="Moneytracker.app.retrofitdatasource" target="11" />
       <module name="Moneytracker.app.sqllitedatasource" target="11" />
+      <module name="Moneytracker.retrofitdatasource" target="11" />
+      <module name="Moneytracker.sqllitedatasource" target="11" />
+      <module name="Moneytracker.usplashretrofitdatasource" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

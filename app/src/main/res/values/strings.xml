@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Moneytracker</string>
+    <string name="app_name">Money tracker</string>
+    <string name="msg_add_expense">Add expense</string>
 </resources>
